@@ -3,8 +3,8 @@ From the [Skillfactory Data Science course](https://lms.skillfactory.ru/courses/
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число]()
-* [Проект 1. ____](___)
+* [Проект 0. Игра: Угадай число](https://github.com/bgsound/sf_data_science/tree/main/project_0)
+* [Проект 1. Игра: Угадай число быстрее](https://github.com/bgsound/sf_data_science/tree/main/project_1)
 * [Проект 2. ____](___)
 
 
